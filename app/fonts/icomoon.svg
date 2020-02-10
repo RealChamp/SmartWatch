@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20170731 at Mon Feb 10 18:56:03 2020
+ By Aleksey,,,
+</metadata>
+<defs>
+<font id="icomoon" horiz-adv-x="0" >
+  <font-face 
+    font-family="icomoon"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="1024"
+    panose-1="0 0 0 0 0 0 0 0 0 0"
+    ascent="960"
+    descent="-64"
+    bbox="0 -73 992 928"
+    underline-thickness="0"
+    underline-position="0"
+    unicode-range="U+0001-FFFD"
+  />
+<missing-glyph horiz-adv-x="1024" 
+ />
+    <glyph glyph-name=".notdef" unicode="&#xfffd;" horiz-adv-x="1024" 
+ />
+    <glyph glyph-name="glyph1" 
+d="M0 0v0v0v0z" />
+    <glyph glyph-name="glyph1" 
+d="M0 0v0v0v0z" />
+    <glyph glyph-name="nonmarkingreturn" horiz-adv-x="341" 
+ />
+    <glyph glyph-name="uni0001" 
+d="M0 0v0v0v0z" />
+    <glyph glyph-name="space" unicode=" " horiz-adv-x="512" 
+d="M0 0v0v0v0z" />
+    <glyph glyph-name="uniEA32" unicode="&#xea32;" horiz-adv-x="1024" 
+d="M512 928l-480 -480h288v-512h384v512h288z" />
+    <glyph glyph-name="uniF002" unicode="&#xf002;" horiz-adv-x="951" 
+d="M658 475q0 53 -20 100t-55 81.5t-81 54.5q-47 20 -100 20t-99 -20q-47 -20 -81.5 -54.5t-55.5 -81.5q-20 -47 -20 -100t20 -99q21 -47 55.5 -81.5t81.5 -54.5q46 -21 99 -21t100 21q46 20 81 54.5t55 81.5q20 46 20 99zM951 0q0 -30 -21.5 -51.5t-51.5 -21.5
+q-15 0 -28.5 5.5t-23.5 16.5l-196 195q-50 -35 -108.5 -53t-119.5 -18q-83 0 -156 32q-74 31 -128.5 86t-85.5 128q-32 73 -32 156q0 84 32 157q31 73 85.5 128t128.5 86q73 32 156 32q84 0 157 -32q73 -31 127.5 -86t86.5 -128t32 -157q0 -60 -18.5 -118.5t-52.5 -109.5
+l196 -196q10 -9 15.5 -22.5t5.5 -28.5v0z" />
+    <glyph glyph-name="uniF04B" unicode="&#xf04b;" horiz-adv-x="809" 
+d="M791 421l-759 -422q-13 -7 -22.5 -1.5t-9.5 20.5v841q0 15 9.5 21t22.5 -2l759 -421q13 -8 13 -18.5t-13 -17.5z" />
+    <glyph glyph-name="uniF105" unicode="&#xf105;" horiz-adv-x="347" 
+d="M340 402q0 -3 -1.5 -6.5t-4.5 -6.5l-266 -266q-3 -3 -6.5 -4.5t-6.5 -1.5q-4 0 -7.5 1.5t-5.5 4.5l-29 28q-2 3 -4 6.5t-2 7.5q0 3 2 6.5t4 6.5l225 224l-225 225q-2 2 -4 6t-2 7t2 7t4 6l29 29q2 2 5.5 3.5t7.5 1.5q3 0 6.5 -1.5t6.5 -3.5l266 -267q3 -2 4.5 -5.5
+t1.5 -7.5v0z" />
+  </font>
+</defs></svg>
